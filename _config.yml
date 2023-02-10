@@ -5,6 +5,7 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
+  Light Mode: https://jimchen2.github.io
   Github: https://github.com/jimchen2
   Codeforces: https://codeforces.com/profile/jimchen
 
